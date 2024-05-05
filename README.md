@@ -1,6 +1,6 @@
 # 🏦 Bank-churn-classification
 
-## 🔗 Link - (https://www.kaggle.com/code/arkabarua173/bank-churn-xgboost-roc-89-shap?kernelSessionId=175744081)
+## 🔗 Link - (## 🔗 Link - (https://www.kaggle.com/code/arkabarua173/bank-churn-xgboost-roc-89-shap?rvi=1)
 - Please go to link to see the interactive plotly graphs.
 
 ## 📌 Objective:
